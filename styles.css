@@ -134,15 +134,15 @@ header h3 a{
     width: 20px;
     height: 20px;
 }
-.python {
+.Java {
     display:flex; 
     width: 200px;
 }
-.mysql{
+.oracle{
     display:flex; 
     width: 180px;
 }
-.mongodb{
+.C Language{
     display:flex; 
     width: 160px;
 }
@@ -172,7 +172,7 @@ li img {
     padding-right: 70%;
     width: 1500px;
     height: 500px;
-    background-image: url("atm\ background\ img.png");
+    background-image: url("project\ img.jpg");
     background-size: cover;
     color: rgb(10, 10, 10);
 }
